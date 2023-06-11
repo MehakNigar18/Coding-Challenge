@@ -1,0 +1,7 @@
+{
+  "greeting": "Welcome!",
+  "counter": "You have read {} books",
+  "author":"Author:",
+  "grade": "Grade:"
+
+}

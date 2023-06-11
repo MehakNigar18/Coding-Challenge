@@ -1,0 +1,6 @@
+{
+  "greeting": "Willkommen!",
+  "counter":"Sie haben {} Bücher gelesen",
+  "author":"Autor:",
+  "grade": "Grad"
+}
